@@ -9,10 +9,10 @@ The bot is represented by the "O" piece and is always the second to go.
 To place down a piece, type in a number from 0-6. The number 0 is the leftmost
 column while 6 is the rightmost. Representation is shown below:
 
-
-|--|--|--|--|--|--|--|
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|R |R |O |  |  |  |  |
+0 |1 |2 |3 |4 |5 |6 
+--|--|--|--|--|--|--
+  |  |  |  |  |  |  
+  |  |  |  |  |  |  
+  |  |  |  |  |  |  
+  |  |  |  |  |  |  
+R |R |O |  |  |  |  
