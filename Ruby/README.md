@@ -15,4 +15,5 @@ column while 6 is the rightmost. Representation is shown below:
   |  |  |  |  |  |  
   |  |  |  |  |  |  
   |  |  |  |  |  |  
+  |  |  |  |  |  |  
 R |R |O |  |  |  |  
