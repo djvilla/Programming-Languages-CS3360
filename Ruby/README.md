@@ -10,7 +10,7 @@ To place down a piece, type in a number from 0-6. The number 0 is the leftmost
 column while 6 is the rightmost. Representation is shown below:
 
 
-|  |  |  |  |  |  |  |
+|--|--|--|--|--|--|--|
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
